@@ -36,7 +36,7 @@
           <i data-lucide="chevron-down" class="chev w-4 h-4 transition-transform"></i>
         </button>
         <div class="submenu hidden ml-5 pl-3 border-l border-slate-200 mt-1 mb-1 space-y-0.5">
-          <a href="#" class="nav-link !py-2 !text-[13px]">All Students</a>
+          <a href="dashboard.php?page=all_students" class="nav-link !py-2 !text-[13px]">All Students</a>
           <a href="#" class="nav-link !py-2 !text-[13px]">New Admission</a>
           <a href="#" class="nav-link !py-2 !text-[13px]">Promotion</a>
           <a href="#" class="nav-link !py-2 !text-[13px]">ID Cards</a>
